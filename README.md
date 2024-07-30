@@ -3,6 +3,14 @@
 
 為方便操作添加了head和tail節點,初始化時head.next->tail,tail.pre->next
 
+      def __init__(self):
+        head = Node()
+        tail = Node()
+        self.head = head
+        self.tail = tail
+        self.head.next = self.tail
+        self.tail.pre = self.head
+
 # 2:獲取鏈表長度
 起始head，每有一個節點，length＋1
 
