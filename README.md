@@ -1,5 +1,6 @@
-#1:初始化鏈表
+# 1:初始化鏈表
 定義節點結構:指針域pre、next和數據域data
+
 為方便操作添加了head和tail節點,初始化時head.next->tail,tail.pre->next
 #2:獲取鏈表長度
 起始head，每有一個節點，length＋1
