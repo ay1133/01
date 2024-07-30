@@ -122,4 +122,5 @@
         self.head.next = self.tail
         self.tail.pre = self.head
 
-https://github.com/ay1133/01/blob/main/01.png
+![01](https://github.com/user-attachments/assets/b95fc7bb-ca4e-480e-964c-e1dce9dfc96e)
+
