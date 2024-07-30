@@ -121,3 +121,5 @@
     def clear(self):
         self.head.next = self.tail
         self.tail.pre = self.head
+
+https://github.com/ay1133/01/blob/main/01.png
